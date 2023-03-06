@@ -1,0 +1,21 @@
+{
+  "name": "1.1-node-package-json",
+  "version": "1.0.0",
+  "description": "vai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "busca": "node index.js b",
+    "addPais": "node add.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falcaomm/1.1-node-package-json.git"
+  },
+  "author": "autor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falcaomm/1.1-node-package-json/issues"
+  },
+  "homepage": "https://github.com/falcaomm/1.1-node-package-json#readme"
+}
